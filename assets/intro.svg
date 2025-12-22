@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+    .text { font-family: 'Press Start 2P', 'Courier New', monospace; font-size:18px; fill:#111; white-space:pre; }
+  </style>
+  <rect width="100%" height="100%" fill="transparent"/>
+  <text x="50%" y="48%" class="text" dominant-baseline="middle" text-anchor="middle">
+Hii!!! I'm Xen or Zeich!! This is mainly a W.i.p ^_^
+  </text>
+  <text x="50%" y="72%" class="text" dominant-baseline="middle" text-anchor="middle">
+Please dont copy my ponies or take heavy inspo!! Please ask!!
+  </text>
+</svg>

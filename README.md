@@ -36,6 +36,9 @@
  <p align="center">
  - Line art !!
  <p align="center">
+   
+<img width="424" height="426" alt="Screenshot 2025-12-22 9 57 58 AM" src="https://github.com/user-attachments/assets/4106e741-097d-46b8-b644-8dddb7aede87" />
+<img width="424" height="426" alt="Screenshot 2025-12-22 9 57 58 AM" src="https://github.com/user-attachments/assets/41408865-65b0-45e7-9124-ad2dd55fd4eb" />
 <img width="424" height="426" alt="Screenshot 2025-12-22 9 57 58 AM" src="https://github.com/user-attachments/assets/795b40b8-1e98-4cd3-ae93-904e7f90bc6d" />
 <img width="417" height="429" alt="Digital art" src="https://github.com/user-attachments/assets/54486827-6005-4bea-a3dc-621281b354b0" />
 <img width="423" height="437" alt="Screenshot 2025-12-22 9 58 17 AM" src="https://github.com/user-attachments/assets/526f03ea-6123-4d1f-aa5a-1ec52466edd7" />
@@ -51,9 +54,17 @@
 <img width="386" height="389" alt="Screenshot 2025-12-22 9 57 38 AM" src="https://github.com/user-attachments/assets/3d765aa5-13c5-46b5-8cfc-aac118796902" />
 <img width="346" height="434" alt="Screenshot 2025-12-22 9 57 30 AM" src="https://github.com/user-attachments/assets/6977dc7b-b5d8-49a6-a7aa-785f4c0f2ab7" />
 <img width="417" height="422" alt="Screenshot 2025-12-22 9 57 13 AM" src="https://github.com/user-attachments/assets/d2d46877-c0cb-44e3-a3ad-7dd00a4fe6b1" />
+<img width="424" height="426" alt="Screenshot 2025-12-22 9 57 58 AM" src="https://github.com/user-attachments/assets/427dede3-607c-4f09-a089-3627883835e1" />
 
  <p align="center">
  - Colored!!!
+ <p align="center"> 
+   <img
+  width="323"
+  height="406"
+  alt="Screenshot 2025-12-23 6 03 20 PM"
+  src="https://github.com/user-attachments/assets/406f2c06-f63f-4214-af47-e66e55ae1dfc"
+/>
  <p align="center">
 <img width="420" height="415" alt="Screenshot 2025-12-22 9 59 33 AM" src="https://github.com/user-attachments/assets/9dd1a137-3b54-442f-b126-96b8f48df764" />
 <img width="406" height="409" alt="Screenshot 2025-12-22 9 59 25 AM" src="https://github.com/user-attachments/assets/73c0d6fa-aa44-4c8f-bc0a-20d1a1dc955c" />

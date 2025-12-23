@@ -1,11 +1,14 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1200&color=FFD700&center=true&vCenter=true&width=900&height=120&lines=WELCOME" alt="Glitch Welcome Banner" />
+</p>
+
+
+<p align="center">
   <img
     src="https://media0.giphy.com/media/M3cqkv72oJMrnK3TzU/giphy.gif"
     alt="Welcome GIF"
   />
 </p>
-
-
 
 
 - IF U WANNA ADD ME GO AHEADD!!!!! your prob realllyyyy epic and awsome!!
@@ -26,7 +29,11 @@
   </a>
 </p>
 
- Look below for art!!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=52&pause=1200&color=FFD700&center=true&vCenter=true&width=900&height=110&lines=ART+BELOW" alt="Art Below Glitch Banner" />
+</p>
+
+
  <p align="center">
  - Line art !!
  <p align="center">

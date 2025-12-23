@@ -35,10 +35,20 @@
 
  <p align="center">
  - Line art !!
+ <p align="center">   
+<div style="display:flex; gap:12px; align-items:center;">
  <p align="center">
-   
-<img width="424" height="426" alt="Screenshot 2025-12-22 9 57 58 AM" src="https://github.com/user-attachments/assets/4106e741-097d-46b8-b644-8dddb7aede87" />
-<img width="424" height="426" alt="Screenshot 2025-12-22 9 57 58 AM" src="https://github.com/user-attachments/assets/41408865-65b0-45e7-9124-ad2dd55fd4eb" />
+  <img
+    src="https://github.com/user-attachments/assets/4106e741-097d-46b8-b644-8dddb7aede87"
+    style="width:420px; height:auto;"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/41408865-65b0-45e7-9124-ad2dd55fd4eb"
+    style="width:420px; height:auto;"
+  />
+</div>
+
+<p align="center">
 <img width="424" height="426" alt="Screenshot 2025-12-22 9 57 58 AM" src="https://github.com/user-attachments/assets/795b40b8-1e98-4cd3-ae93-904e7f90bc6d" />
 <img width="417" height="429" alt="Digital art" src="https://github.com/user-attachments/assets/54486827-6005-4bea-a3dc-621281b354b0" />
 <img width="423" height="437" alt="Screenshot 2025-12-22 9 58 17 AM" src="https://github.com/user-attachments/assets/526f03ea-6123-4d1f-aa5a-1ec52466edd7" />

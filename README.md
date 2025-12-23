@@ -10,12 +10,13 @@
   />
 </p>
 
-- IF U WANNA ADD ME GO AHEADD!!!!! your prob realllyyyy epic and awsome!!
-- Feel Free To check links !! I think theyre pretty cool
-  
-- Hii!!! I'm Xen or Zeich!! This is mainly a W.i.p ^_^
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1199526483027304559/1453152533554925730/ChatGPT_Image_Dec_23__2025__05_27_46_PM-removebg-preview.png?ex=694c6942&amp;is=694b17c2&amp;hm=1374990ff8d6e1ba80244a39924f5cc9ac93ed28ecd4e71109137a97e6b9a896&amp;=&amp;format=webp&amp;quality=lossless&amp;width=673&amp;height=449" 
+       alt="Pixel Text Image" 
+       width="600"/>
+</p>
 
-- Please dont take heavy inspo!! or copy!! Please ask if its okay!! 
+
 
 <!-- New: two plush images side-by-side, centered and clickable -->
 <p align="center">

@@ -33,18 +33,6 @@
 
  <p align="center">
  - Line art !!
- <p align="center">   
-<div style="display:flex; gap:12px; align-items:center;">
- <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/4106e741-097d-46b8-b644-8dddb7aede87"
-    style="width:420px; height:auto;"
-  />
-  <img
-    src="https://github.com/user-attachments/assets/41408865-65b0-45e7-9124-ad2dd55fd4eb"
-    style="width:420px; height:auto;"
-  />
-</div>
 
 <p align="center">
 <img width="424" height="426" alt="Screenshot 2025-12-22 9 57 58 AM" src="https://github.com/user-attachments/assets/795b40b8-1e98-4cd3-ae93-904e7f90bc6d" />
@@ -63,7 +51,18 @@
 <img width="346" height="434" alt="Screenshot 2025-12-22 9 57 30 AM" src="https://github.com/user-attachments/assets/6977dc7b-b5d8-49a6-a7aa-785f4c0f2ab7" />
 <img width="417" height="422" alt="Screenshot 2025-12-22 9 57 13 AM" src="https://github.com/user-attachments/assets/d2d46877-c0cb-44e3-a3ad-7dd00a4fe6b1" />
 <img width="424" height="426" alt="Screenshot 2025-12-22 9 57 58 AM" src="https://github.com/user-attachments/assets/427dede3-607c-4f09-a089-3627883835e1" />
-
+ <p align="center">   
+<div style="display:flex; gap:12px; align-items:center;">
+ <p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/4106e741-097d-46b8-b644-8dddb7aede87"
+    style="width:420px; height:auto;"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/41408865-65b0-45e7-9124-ad2dd55fd4eb"
+    style="width:420px; height:auto;"
+  />
+</div>
  <p align="center">
  - Colored!!!
  <p align="center"> 

@@ -1,23 +1,20 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1200&color=778D60&center=true&vCenter=true&width=900&height=120&lines=WELCOME" alt="Glitch Welcome Banner" />
+</p>
+
+<p align="center">
 <img width="821" height="304" alt="WELCOME___TO_XENS_PAGE__-removebg-preview" src="https://github.com/user-attachments/assets/928217ec-b60e-4862-ae20-836f06154d8d" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/dda7e79f-36ec-47ba-af01-2ce7a7a1c0cd"
-    width="800"
-    style="max-width: 100%; height: auto;"
-    alt="GitHub Banner"
-  />
 </p>
 
 <p align="center">
-<img width="612" height="408" alt="ChatGPT_Image_Dec_23__2025__05_27_46_PM-removebg-preview" src="https://github.com/user-attachments/assets/395ed0dd-3e35-486c-9723-006657874e2c" />
-
+  Please DNI If associated with Sunnyfoggy/Avery. Reasons Below.
+https://docs.google.com/document/d/11ICxHCZTshOs6kfWT95aJj7OdXvVjPnENAXW2WnEdGg/edit?usp=sharing
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=52&pause=1200&color=FFD700&center=true&vCenter=true&width=900&height=110&lines=ART+BELOW" alt="Art Below Glitch Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=52&pause=1200&color=778D60&center=true&vCenter=true&width=900&height=110&lines=ART+BELOW" alt="Art Below Glitch Banner" />
 </p>
 <!-- New: two plush images side-by-side, centered and clickable -->
 <p align="center">
@@ -82,6 +79,4 @@
 <img width="299" height="403" alt="Screenshot 2025-12-22 9 58 49 AM" src="https://github.com/user-attachments/assets/75690155-02c9-4513-b1c2-f524e30a6bbc" />
 <img width="438" height="439" alt="Screenshot 2025-12-22 9 57 50 AM" src="https://github.com/user-attachments/assets/71dca53c-ba1d-4bd5-bd9d-ddce15f5ddec" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1200&color=FFD700&center=true&vCenter=true&width=900&height=120&lines=WELCOME" alt="Glitch Welcome Banner" />
-</p>
+

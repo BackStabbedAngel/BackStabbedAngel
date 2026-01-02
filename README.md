@@ -14,8 +14,17 @@
 <p align="center">
 
 <p align="center">
-  <a href="https://github.com/user-attachments/files/24403545/DNI.If.associated.with.SunnyFoggy_Avery.pdf">
-    Open Document
+  
+<p align="center">
+  <a href="https://docs.google.com/document/d/11ICxHCZTshOs6kfWT95aJj7OdXvVjPnENAXW2WnEdGg/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Document-Click%20Here-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=google-doc-open&label=Views&color=blue&style=flat" />
+</p>
+  
   </a>
 </p>
 

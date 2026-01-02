@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Please DNI If associated with Sunnyfoggy/Avery. Reasons Below.
+  Please DNI If associated with Sunnyfoggy/Avery. Reasons Below. Honestly depends. As long as you aren't trying to use me.
   Besides that feel free to int as long as you dont support anything problematic.
 <p align="center">
 

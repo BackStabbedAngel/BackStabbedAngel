@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  Please DNI If associated with Sunnyfoggy/Avery. Reasons Below. Honestly depends. As long as you aren't trying to use me.
-  Besides that feel free to int as long as you dont support anything problematic.
+  Please DNI If associated with person below. Honestly depends. As long as you aren't trying to harrass me.
+  Besides that feel free to int as long as you dont support anything problematic like d@rkshippers.
 <p align="center">
 
 <p align="center">

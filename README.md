@@ -73,7 +73,8 @@ es/j-plush-1.png?v=1762242014" title="J Plush — click to open full image">
  <p align="center">   
 <div style="display:flex; gap:11px; align-items:center;">
  <p align="center">
-  />
+
+  <p align="center">
   <img
     src="https://github.com/user-attachments/assets/41408865-65b0-45e7-9124-ad2dd55fd4eb"
     style="width:420px; height:auto;"

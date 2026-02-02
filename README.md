@@ -98,6 +98,33 @@ es/j-plush-1.png?v=1762242014" title="J Plush — click to open full image">
 <img width="299" height="403" alt="Screenshot 2025-12-22 9 58 49 AM" src="https://github.com/user-attachments/assets/75690155-02c9-4513-b1c2-f524e30a6bbc" />
 <img width="438" height="439" alt="Screenshot 2025-12-22 9 57 50 AM" src="https://github.com/user-attachments/assets/71dca53c-ba1d-4bd5-bd9d-ddce15f5ddec" />
 
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/64b440b3-ede0-4e4b-af87-ffba3fe6f8cd"
+    width="438"
+    height="439"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/3bd28c82-e8e2-4561-85f5-277df4c49e76"
+    width="438"
+    height="439"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/e12b4a7b-4959-416d-b269-6565a4795527"
+    width="438"
+    height="439"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/408e35ea-af26-471e-87b4-a9bd5d66917c"
+    width="438"
+    height="439"
+  />
+</p>
+
+
  <p align="center">
 ! ! END OF PROFILE 4 NOW ! !
    

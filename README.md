@@ -31,6 +31,7 @@
 </p>
 
 <p align="center">
+  
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=52&pause=1200&color=778D60&center=true&vCenter=true&width=900&height=110&lines=ART+BELOW" alt="Art Below Glitch Banner" />
 </p>
 <!-- New: two plush images side-by-side, centered and clickable -->

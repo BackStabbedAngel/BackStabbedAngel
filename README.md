@@ -133,12 +133,3 @@ es/j-plush-1.png?v=1762242014" title="J Plush — click to open full image">
 
  <p align="center">
 ! ! END OF PROFILE 4 NOW ! !
-   
-<p align="center">
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/8dadfa33-48b1-4abc-a9cd-a1ad2d61229e"
-    width="600"
-    style="max-width: 100%; height: auto;"
-  />
-</p>

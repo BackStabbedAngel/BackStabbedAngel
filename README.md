@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1200&color=778D60&center=true&vCenter=true&width=900&height=120&lines=WELCOME" alt="Glitch Welcome Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1200&color=FFFF00&center=true&vCenter=true&width=900&height=120&lines=WELCOME" alt="Glitch Welcome Banner" />
 </p>
 
 <p align="center">
-<img width="821" height="304" alt="WELCOME___TO_XENS_PAGE__-removebg-preview" src="https://github.com/user-attachments/assets/928217ec-b60e-4862-ae20-836f06154d8d" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/8dadfa33-48b1-4abc-a9cd-a1ad2d61229e"
+    width="600"
+    style="max-width: 100%; height: auto;"
+  />
 </p>
 
 </p>
@@ -32,7 +37,7 @@
 
 <p align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=52&pause=1200&color=778D60&center=true&vCenter=true&width=900&height=110&lines=ART+BELOW" alt="Art Below Glitch Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=52&pause=1200&color=FFFF00&center=true&vCenter=true&width=900&height=110&lines=ART+BELOW" alt="Art Below Glitch Banner" />
 </p>
 <!-- New: two plush images side-by-side, centered and clickable -->
 <p align="center">

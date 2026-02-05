@@ -1,3 +1,9 @@
+![1000040317](https://github.com/user-attachments/assets/76044eea-d3c6-4805-8ac1-923411b95a81)
+
+
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&pause=1200&color=FFFF00&center=true&vCenter=true&width=900&height=120&lines=WELCOME" alt="Glitch Welcome Banner" />
 </p>

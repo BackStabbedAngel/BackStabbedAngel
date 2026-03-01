@@ -30,6 +30,7 @@
 
 </p>
 
+  Please DNI If associated with person below in document. Honestly depends. I wish you the best. stay safe.
 
 <p align="center">
   

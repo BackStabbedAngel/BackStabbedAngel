@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  Please DNI If associated with person below in document. Honestly depends. I wish you the best. stay safe please, whether we be friends or not. 
+  Please DNI If associated with person below in document. Honestly depends.
 
 <p align="center">
   
